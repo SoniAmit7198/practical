@@ -242,6 +242,7 @@
   
     .primary-navigation[data-visible] {
       display: block;
+      z-index: 9999;
     }
   
     .mobile-nav-toggle {
